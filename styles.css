@@ -1,7 +1,22 @@
 /*  your css code here. If applicable */
 .button{
-	border-radis:15px;
+	border-radius:10px;
 	background-color:red;
 	color: white;
 	padding:1opx;
+	border:none;
+	height:30px;
+	width:80px;
+	position:center;
+}
+.card{
+	height:400px;
+	width:250px;
+	background-color:lightgray;
+	padding:30px;
+	box-shadow: 0px 0px 5px black;
+}
+.pic{
+	height:200px;
+	width: 250px;
 }
